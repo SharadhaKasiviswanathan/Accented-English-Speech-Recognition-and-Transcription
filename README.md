@@ -56,4 +56,7 @@ Provide a summary of the evaluation results and any insights gained from the fin
 
 ## Acknowledgments
 
-Mention any acknowledgments or credits for libraries, datasets, or tools used in the project.
+We would like to acknowledge George Mason University's Speech Accent Archive ([Link](https://accent.gmu.edu/)) from where we obtained our initial dataset. Additionally, we extend our thanks to all the contributors, libraries, datasets, and tools that were instrumental in the success of this project.
+
+<!-- Mention any acknowledgments or credits for libraries, datasets, or tools used in the project. -->
+
